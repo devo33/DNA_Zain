@@ -2022,16 +2022,8 @@ ORDER BY points DESC;
 
 ***
 
-48- [Github](https://github.com/) 
 
-<p align="center" width="100%">
-    <img width="33%" src="Flutter Camp\p-36.png" alt="p-36.png">
-</p>
 
-***
 
-49- End
-
-p-37
 
 
